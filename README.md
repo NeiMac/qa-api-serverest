@@ -1,3 +1,7 @@
-Teste
+# qa-api-serverest
 
-Alteração de teste
+Testes automatizados da API ServeRest com Cypress.
+
+## Como rodar
+
+Em construção.
